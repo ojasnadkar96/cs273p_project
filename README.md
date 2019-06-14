@@ -1,6 +1,6 @@
 # CS273P UCI Machine Learning Project, Spring 2019
 
-Dataset:[I'm an inline-style link](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
+Dataset:[130-US Hospitals Diabetis dataset](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
 Files:
 1. preprocess.ipynb - Data Preprocessing
@@ -30,6 +30,6 @@ All `_PCA` files are for the second approch.
 Keras and Scikitlearn are used in this project
 
 ### Project By:
- Ojas Parag Nadkar (44648846)
+ Ojas Parag Nadkar (44648846)<br>
  Abhijeet Suresh Bhute (81004607)
 
