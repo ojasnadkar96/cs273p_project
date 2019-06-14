@@ -29,6 +29,11 @@ All `_PCA` files are for the second approch.
 
 Keras and Scikitlearn are used in this project
 
+### Running the project:
+First run the `preprocess.ipynb` file to generate the `.pkl` files.<br>
+Once the `.pkl` files are generated, all the models can be executed.<br>
+NOTE: The dataset has to be downloaded for the `data_loader.py` file to work.
+
 ### Project By:
  Ojas Parag Nadkar (44648846)<br>
  Abhijeet Suresh Bhute (81004607)
