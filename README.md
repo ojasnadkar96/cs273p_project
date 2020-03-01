@@ -1,4 +1,6 @@
-# CS273P UCI Machine Learning Project, Spring 2019
+# ML Experimentation
+
+Tested and compared the performance of Decision Tree, Logistic Regression, Random Forest, and Multi-layer perceptron.
 
 Dataset:[130-US Hospitals Diabetis dataset](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
@@ -33,8 +35,4 @@ Keras and Scikitlearn are used in this project
 First run the `preprocess.ipynb` file to generate the `.pkl` files.<br>
 Once the `.pkl` files are generated, all the models can be executed.<br>
 NOTE: The dataset has to be downloaded for the `data_loader.py` file to work.
-
-### Project By:
- Ojas Parag Nadkar (44648846)<br>
- Abhijeet Suresh Bhute (81004607)
 
